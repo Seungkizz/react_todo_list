@@ -23,7 +23,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://seungkizz.github.io/react_todo_list/react_todo_list",
+  "homepage": "https://seungkizz.github.io/react_todo_list",
   "eslintConfig": {
     "extends": [
       "react-app",
